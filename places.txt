@@ -1,0 +1,9 @@
+Dublin
+35.95,137.27
+Boston
+40.42,-3.7
+New York City
+52.37,4.89
+Los Angeles
+02170,us
+Vienna

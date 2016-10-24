@@ -1,0 +1,12 @@
+{
+  "name": "WeatherBot",
+  "version": "0.0.1",
+  "description": "Get current weather for a list of cities",
+  "scripts": {
+    "start":"node WeatherBot.js places.txt"
+  },
+  "dependencies": {
+     "async": "~2.0.1",
+     "request": "~2.75.0"
+   }
+}
